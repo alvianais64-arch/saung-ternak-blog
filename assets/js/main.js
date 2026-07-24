@@ -1,0 +1,1 @@
+// JavaScript Saung Ternak
